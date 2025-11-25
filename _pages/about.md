@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am first year undergradute student
+I am first year undergradute student from 江西理工大学
 My research interest includes computer vision,computer graphics,machine learning,and computational photography.
 
 A data-driven personal website
