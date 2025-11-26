@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am first year undergradute student from 江西理工大学
-My research interest includes computer vision,computer graphics,machine learning,and computational photography.
-大家好！我是一名聚焦 信息安全 与 C++编程 的计算机相关专业学生。
+大家好！我是一名聚焦 信息安全 与 C++编程 的计算机相关专业学生，来自江西理工大学。
+
+ 我的研究兴趣包括计算机视觉、计算机图形学、机器学习以及计算摄影学
  
 - 学习方向：深耕信息安全领域（重点关注密码学、网络安全基础），同步系统练习C++编程实操；
 
