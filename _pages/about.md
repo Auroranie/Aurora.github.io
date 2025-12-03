@@ -14,7 +14,7 @@ redirect_from:
 
 - 兴趣特长：喜欢将理论知识转化为代码实践，擅长拆解技术问题、打磨代码细节；
 
-- 交流期待：希望结识同好交流技术、分享学习经验，在信息安全与编程道路上共同成长～
+- 交流期待：希望结识同好交流技术、分享学习经验，在信息安全与编程道路上共同成长
 
 A data-driven personal website
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the GitHub pages service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
